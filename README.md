@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PolianaSouzaAnanias
-- 🌱 I’m currently learning Lógica de Programação.
+- 🌱 I’m currently learning POO em Java.
 - 📫 How to reach me 
 https://www.linkedin.com/in/poliana-de-souza-ananias-71a86961
 <!---
